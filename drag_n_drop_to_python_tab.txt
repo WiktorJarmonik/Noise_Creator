@@ -1,0 +1,6 @@
+print("Lets make some noise!")
+scriptDir = cmds.internalVar(userScriptDir=True)
+sys.path.append(scriptDir+'/Noise_Creator/')
+import make_noise_ui
+from importlib import reload
+reload (make_noise_ui)

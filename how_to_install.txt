@@ -1,0 +1,20 @@
+
+First of all:
+1. Move this whole folder to maya user's script folder:
+C:\Users\username\Documents\maya\202x\scripts
+
+
+___________________________________________________________
+Automatic method (recommended):
+2. Drag and drop "install.py" file into maya's viewport.
+3. The end.
+___________________________________________________________
+
+Manual method:
+2. Open script editor
+3. Click on shelf you want to be script button to be placed in.
+4. Drag and drop "drag_n_drop_to_python_tab.txt" file into Python's tab.
+5. Click "Save Script to Shelf" button.
+6. You can click "Shelf Editor" and change script icon to "noise_make_icon2.jpg", which is here: C:\Users\username\Documents\maya\2020\scripts\Noise_Creator\icons
+7. The end.
+___________________________________________________________
